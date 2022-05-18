@@ -1,0 +1,42 @@
+[
+    {
+        "email": "mail@mail.com",
+        "subject": "Please send me a pricelist",
+        "message": "This is my message"
+    },
+    {
+        "email": "mail@mail.com",
+        "subject": "Please send me a pricelist",
+        "message": "This is my second message"
+    },
+    {
+        "email": "mail@mail.com",
+        "subject": "Please send me a car",
+        "message": "This is my third message"
+    },
+    {
+        "email": "kniffesgat@gmail.com",
+        "subject": "hello",
+        "message": "This is my message"
+    },
+    {
+        "email": "kniffesgat@gmail.com",
+        "subject": "hello",
+        "message": "This is my message"
+    },
+    {
+        "email": "kniffesgat@gmail.com",
+        "subject": "hello",
+        "message": "This is my message"
+    },
+    {
+        "email": "kniffesgat@gmail.com",
+        "subject": "hello",
+        "message": "This is my message"
+    },
+    {
+        "email": "arnaldoheiniklaas@gmail.com",
+        "subject": "hello",
+        "message": "yes"
+    }
+]
